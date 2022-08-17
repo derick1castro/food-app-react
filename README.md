@@ -1,4 +1,4 @@
-[website](https://user-images.githubusercontent.com/104864411/185262026-13ac461b-e5d4-4dbc-92b2-e95d63b937f5.png)
+(https://user-images.githubusercontent.com/104864411/185262026-13ac461b-e5d4-4dbc-92b2-e95d63b937f5.png)
 <h1>React JS Website Styled With Tailwind CSS</h1>
 Run npm install to install the necessary dependencies
 All of the data/images to simulate API responses are located at src/data/data.js
